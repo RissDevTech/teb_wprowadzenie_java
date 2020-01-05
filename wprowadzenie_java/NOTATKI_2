@@ -1,0 +1,22 @@
+class Main 
+{
+    enum Kolor {wartosc1,wartosc2,wartosc3}
+
+    void Wyswietl(String napis)
+    {
+
+    }
+    public static void main(String[]args)
+    {
+        tworzenie zmiennych;
+        
+        int i=0;
+        
+        tworzenie obiektów z klas albo struktur;
+        Kolor kolor = Color.wartosc1;
+
+        ...kod działania programu 
+        kontrol ruchu programu (if, for, while, itd)
+        wywołania funkcji: Wyswietl("ten napis");
+    }
+}

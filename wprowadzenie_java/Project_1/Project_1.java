@@ -16,7 +16,7 @@ public class Project_1 {
     }
 
     public static void main(String args[]) {
-        System.out.println("No dawaj, pisz...");
+        System.out.println("\n No dawaj, pisz...");
         String text = userInput.nextLine();
         // userInput.nextLine();
         if (!validateNumber(text, liczbaWpisana)) {

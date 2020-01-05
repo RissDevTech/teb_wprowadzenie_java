@@ -14,3 +14,14 @@ weworkremotly.
 the dust s.a. - firma
 
 egzamin - 100zł opłacić do końca grudnia
+
+ZADANIA 2019-12-15:
+1. Pyta/pobiera:
+    - imię
+    - nazwisko
+    - wiek
+2: Pyta/pobiera:
+    - ulubiony kolor (enum)
+3. Pyta/pobiera:
+    - uluniony cytat
+4. Wyświetla jako jeden String

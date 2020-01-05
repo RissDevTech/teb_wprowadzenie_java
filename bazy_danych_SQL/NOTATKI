@@ -1,0 +1,18 @@
+int[]nazwatab=new int[19];
+nazwatab[0]=5;
+nazwatab[9]=15;
+int x=nazwatab[7];
+
+Algorytm Euklidesa:
+282 | 78
+
+1. Wczytaj dwie liczby (wieksza/mniejsza)
+2. Wynik=Wieksza-Mniejsza
+3. if (a>b){
+    Wieksza=a;
+    Mniejsza=b;
+} else {
+    Wieksza = b;
+    Mniejsza = a;
+    
+}
