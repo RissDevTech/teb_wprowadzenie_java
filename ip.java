@@ -12,7 +12,7 @@ public class ip {
             for (int i = 0; i < mac.length; i++) {
                 sb.append(String.format("%02X%s", mac[i], (i < mac.length - 1) ? "-" : ""));
             }
-            System.out.println("================================");
+            System.out.println("--------------------------------");
             System.out.println("Nazwa komputera: " + hostName);
             System.out.println("Adres lokalny: " + InetAddress.getLocalHost().getHostAddress());
             System.out.println("Adres MAC: " + sb.toString());
