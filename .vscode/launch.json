@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - euklides",
+            "request": "launch",
+            "mainClass": "euklides",
+            "projectName": "GIT_927039f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - program1",
             "request": "launch",
             "mainClass": "program1"
